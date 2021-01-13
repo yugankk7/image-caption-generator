@@ -1,6 +1,7 @@
 # image-caption-generator
 
-This image caption generator was trained on the Flickr8k dataset and the Flickr8k text datasets. The dataset is available for free. You must complete a request form and the links to the dataset will be emailed to you. I would love to link to them for you, but the email address expressly requests: “Please do not redistribute the dataset“. [REQUEST FORM FOR THE DATASET](https://forms.illinois.edu/sec/1713398)
+This image caption generator was trained on the Flickr8k dataset and the Flickr8k text datasets. The dataset is available for free. You must complete a request form and the links to the dataset will be emailed to you. I would love to link to them for you, but the email address expressly requests: “Please do not redistribute the dataset“.
+[REQUEST FORM FOR THE DATASET](https://forms.illinois.edu/sec/1713398)
 
 You can also use a pre-trained model which can be found [here](https://drive.google.com/file/d/1VdLPDAoMZCcwY2_fq-MM2ns9Jc5w_T1C/view?usp=sharing).
 
