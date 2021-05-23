@@ -16,5 +16,4 @@ Steps to run -
 4. Run "create_descriptions.py"
 You can skip step 5 if you downloaded the pre trained model from above and put it in the same directory.
 5. Run "train.py"
-6. Run "generate_description.py"
-7. Profit?
+6. Run "generate_description.py" to get the caption.
